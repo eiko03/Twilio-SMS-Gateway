@@ -15,7 +15,7 @@ Install Twilio SDK by running
 Then run
 ``` composer update ```
 <br>
-update .env file like following
+Finally update .env file like following
  ``` 
 TWILIO_ACCOUNT_SID= //your accunt sid
 TWILIO_AUTH_TOKEN= //auth token
