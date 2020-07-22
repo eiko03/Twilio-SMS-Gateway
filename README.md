@@ -13,5 +13,11 @@ or you can manually edit <strong> composer.json </strong> <br>
 ```
 Then run
 ``` composer update ```
-
+<br>
+update .env file like following
+ ``` 
+TWILIO_ACCOUNT_SID= //your accunt sid
+TWILIO_AUTH_TOKEN= //auth token
+TWILIO_NUMBER= //ur bought number
+```
 
